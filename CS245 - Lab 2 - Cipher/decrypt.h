@@ -4,8 +4,8 @@
 #include "stdafx.h"
 #include <string>
 
-// Function declaration:
-// decrypt(cipher_text, key)
+// Function declaration:z
+// decrypt(string &cipher_text, unsigned key)
 
 string decrypt(string &, unsigned);
 
