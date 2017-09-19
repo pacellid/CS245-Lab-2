@@ -8,6 +8,6 @@ using namespace std;
 // Function declaration:z
 // decrypt(string &cipher_text, unsigned key)
 
-string decrypt(const string &, int);
+string decrypt(const string &, unsigned int);
 
 #endif
