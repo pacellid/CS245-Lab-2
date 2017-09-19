@@ -53,7 +53,7 @@ int main()
 	cout << ck_actual_text << endl;
 
 	// D.P.
-	std::string dp_actual_text = decrypt("BFYJW NX BJY", 0);
+	std::string dp_actual_text = decrypt("BFYJW NX BJY", -5);
 	std::string dp_expected_text = "WATER IS WET";
 	cout << dp_actual_text << endl;
 
